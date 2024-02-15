@@ -1,4 +1,4 @@
-id,Sex,Age,AgeGroup,PassengerClass,Survived
+id,Sex,Age,AgeGroup,PassengerClass,Surviver
 0,0,22,1,3,Died
 1,1,38,1,1,Survived
 2,1,26,1,3,Survived
